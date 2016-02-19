@@ -1,0 +1,66 @@
+<!-- http://freevpnaccess.com/ -->
+<servers>
+    <server>
+        <location>US - Chicago</location>
+        <address>67.212.175.123</address>
+        <protocol>PPTP</protocol>
+        <username>freevpnaccess.com</username>
+        <password>2126</password>
+    </server>
+    <server>
+        <location>UK - London</location>
+        <address>83.170.84.216</address>
+        <protocol>PPTP</protocol>
+        <username>freevpnaccess.com</username>
+        <password>4779</password>
+    </server>
+    <server>
+        <location>Canada - Montreal</location>
+        <address>184.107.164.107</address>
+        <protocol>PPTP</protocol>
+        <username>freevpnaccess.com</username>
+        <password>1043</password>
+    </server>
+    <server>
+        <location>NL - Haarlem</location>
+        <address>212.7.192.139</address>
+        <protocol>PPTP</protocol>
+        <username>freevpnaccess.com</username>
+        <password>2022</password>
+    </server>
+    <server>
+        <location>US - Miami</location>
+        <address>69.60.121.29</address>
+        <protocol>PPTP</protocol>
+        <username>freevpnaccess.com</username>
+        <password>2414</password>
+    </server>
+    <server>
+        <location>UK - Maidenhead</location>
+        <address>94.76.233.203</address>
+        <protocol>PPTP</protocol>
+        <username>freevpnaccess.com</username>
+        <password>1298</password>
+    </server>
+    <server>
+        <location>DE server</location>
+        <address>de1.vpnme.me</address>
+        <protocol>PPTP</protocol>
+        <username>vpnme</username>
+        <password>suGm75</password>
+    </server>
+    <server>
+        <location>CA server</location>
+        <address>ca1.vpnme.me</address>
+        <protocol>PPTP</protocol>
+        <username>vpnme</username>
+        <password>iEO37M</password>
+    </server>
+    <server>
+        <location>FR server</location>
+        <address>fr3.vpnme.me</address>
+        <protocol>PPTP</protocol>
+        <username>vpnme</username>
+        <password>uxq1Ct</password>
+    </server>
+</servers>
